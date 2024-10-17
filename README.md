@@ -7,7 +7,7 @@
 
 <p align="center">
   🌱 I’m currently focusing on <strong>Full Stack Development</strong> using <strong>MERN</strong> and <strong>MEAN</strong> stacks.<br>
-  👨‍💻 Check out my portfolio at <a href="https://suchith-m-portfolio.vercel.app/">https://suchith-m-portfolio.vercel.app/</a><br>
+  👨‍💻 Check out my portfolio at <a href="https://suchith-m-portfolio.vercel.app/">Portfolio</a><br>
   💬 Ask me about <strong>Angular, ReactJS, Node.js, Express.js</strong><br>
   📫 How to reach me: <strong><a href="mailto:suchithm1999@gmail.com">suchithm1999@gmail.com</a></strong>
 </p>
