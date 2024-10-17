@@ -1,40 +1,78 @@
 <h1 align="center">Hi 👋, I'm M Suchith</h1>
 <h3 align="center">A Passionate Software Development Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
-- 🌱 I’m currently focusing on **Full stack development** using **MERN** and **MEAN** stacks.
+<p align="center">
+  🌱 I’m currently focusing on <strong>Full Stack Development</strong> using <strong>MERN</strong> and <strong>MEAN</strong> stacks.<br>
+  👨‍💻 Check out my portfolio at <a href="https://suchith-m-portfolio.vercel.app/">https://suchith-m-portfolio.vercel.app/</a><br>
+  💬 Ask me about <strong>Angular, ReactJS, Node.js, Express.js</strong><br>
+  📫 How to reach me: <strong><a href="mailto:suchithm1999@gmail.com">suchithm1999@gmail.com</a></strong>
+</p>
 
-- 👨‍💻 Checkout my portfolio at [https://suchith-m-portfolio.vercel.app/](https://suchith-m-portfolio.vercel.app/)
+### 🛠️ Tech Stack:
 
-- 💬 Ask me about **Angular, ReactJS, Node.js, Express.js**
+<div style="display: flex;">
+  <div>
+    <h4>Frontend Development:</h4>
+    <ul>
+      <li>ReactJS</li>
+      <li>Angular</li>
+      <li>Redux</li>
+      <li>Tailwind CSS</li>
+      <li>Sass</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+    </ul>
+    <h4>Backend Development:</h4>
+    <ul>
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>MongoDB</li>
+    </ul>
+  </div>
+  <div>
+    <h4>Mobile Development:</h4>
+    <ul>
+      <li>Ionic</li>
+      <li>Cordova</li>
+      <li>Capacitor</li>
+    </ul>
+    <h4>Version Control:</h4>
+    <ul>
+      <li>Git</li>
+      <li>GitHub</li>
+      <li>GitLab</li>
+    </ul>
+    <h4>Tools:</h4>
+    <ul>
+      <li>Postman</li>
+      <li>Visual Studio Code</li>
+      <li>Android Studio</li>
+      <li>Xcode</li>
+      <li>JIRA</li>
+      <li>Chrome DevTools</li>
+    </ul>
+    <h4>Other Technologies:</h4>
+    <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Linux</li>
+    </ul>
+  </div>
+</div>
 
-- 📫 How to reach me **suchithm1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suchith-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchith-m" height="30" width="40" /></a>
-<a href="https://instagram.com/suchithshetty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suchithshetty_" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/suchith-m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/suchithshetty_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/477/472/png-clipart-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-thumbnail.png" alt="express" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suchithm1999&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchithm1999&show_icons=true&locale=en&layout=compact" alt="suchithm1999" /></p>
