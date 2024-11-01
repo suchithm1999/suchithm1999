@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Suchith</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Development Engineer</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
