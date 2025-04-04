@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm M Suchith</h1>
-<h3 align="center">A Passionate Software Development Engineer</h3>
+<h3 align="center">A Passionate Senior Associate Software Development Engineer</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
+<h3 align="center">Working at NTT Data, Inc</h3>
+
 <p align="center">
   🌱 I’m currently focusing on <strong>Full Stack Development</strong> using <strong>MERN</strong> and <strong>MEAN</strong> stacks.<br>
-  👨‍💻 Check out my portfolio at <a href="https://suchith-m-portfolio.vercel.app/">Portfolio</a><br>
-  💬 Ask me about <strong>Angular, ReactJS, Node.js, Express.js</strong><br>
+  👨‍💻 Check out my portfolio at <a href="https://suchith.vercel.app/">Portfolio</a><br>
+  💬 Ask me about <strong>Angular, ReactJS, Node.js, Express.js, Python</strong><br>
   📫 How to reach me: <strong><a href="mailto:suchithm1999@gmail.com">suchithm1999@gmail.com</a></strong>
 </p>
 
@@ -35,6 +37,7 @@
       <li>Node.js</li>
       <li>Express.js</li>
       <li>MongoDB</li>
+      <li>Python</li>
     </ul>
   </div>
   <div>
